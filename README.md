@@ -1,6 +1,6 @@
 # Productivity EDA Project
 
-This project explores the relationship between daily productivity and various factors such as weather, mood, music, and study hours. It is a small-scale exploratory data analysis (EDA) project using my synthetic data collected over 3 months.
+This project explores the relationship between daily productivity and various factors such as weather, mood, music, and study hours. It is a small-scale exploratory data analysis (EDA) project using synthetic data collected over 3 months.
 
 ---
 
@@ -8,7 +8,6 @@ This project explores the relationship between daily productivity and various fa
 
 - Python 3.14
 - pandas
-- numpy
 - matplotlib
 - seaborn
 
@@ -40,13 +39,28 @@ This project explores the relationship between daily productivity and various fa
 
 ## ⚡ Usage
 
-**Clone the repository:**
-
+**Clone Repository**
 ```bash
 git clone https://github.com/devin-ph/productivity-eda.git
-cd productivity-eda
+cd productivity-ananlysis-eda
 ```
-## 📌 Notes
-- Open notebooks in Jupyter or VSCode.
-- Run ***0.project_setup.ipynb*** first to load libraries, dataset, and helper functions.
-- All notebooks are modular; they can be run independently after running ***0.project_setup.ipynb***.
+**Activate Virtual Environment**
+```bash
+python -m venv venv
+```
+- Windows:
+```bash
+venv\Scripts\activate
+```
+- MacOS / Linux:
+```bash
+source venv/bin/activate
+```
+**Install Requirements**
+```bash
+pip install -r requirements.txt
+```
+**Run Jupyter Notebook**
+```bash
+jupyter notebook
+```
