@@ -38,4 +38,4 @@ This project explores the relationship between daily productivity and various fa
 ---
 
 ## ⚡ Usage
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devin-ph/productivity-eda/blob/main/notebooks/0.project_setup.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devin-ph/productivity-eda/)
