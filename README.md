@@ -38,29 +38,4 @@ This project explores the relationship between daily productivity and various fa
 ---
 
 ## ⚡ Usage
-
-**Clone Repository**
-```bash
-git clone https://github.com/devin-ph/productivity-eda.git
-cd productivity-ananlysis-eda
-```
-**Activate Virtual Environment**
-```bash
-python -m venv venv
-```
-- Windows:
-```bash
-venv\Scripts\activate
-```
-- MacOS / Linux:
-```bash
-source venv/bin/activate
-```
-**Install Requirements**
-```bash
-pip install -r requirements.txt
-```
-**Run Jupyter Notebook**
-```bash
-jupyter notebook
-```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devin-ph/productivity-eda/blob/main/notebooks/0.project_setup.ipynb)
